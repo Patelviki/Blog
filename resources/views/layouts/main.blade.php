@@ -6,9 +6,8 @@
 
     <link href='https://fonts.googleapis.com/css?family=Raleway:400,700' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css">
-    {{--<link rel="stylesheet" href="/css/bootstrap.min.css">--}}
-    <link rel="stylesheet" href="/public/css/bootstrap.min.css">
-    <link rel="stylesheet" href="/public/css/custom.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/custom.css">
 </head>
     <body>
         <header>
@@ -59,6 +58,6 @@
             </div>
         </footer>
 
-        <script src="/public/js/bootstrap.min.js"></script>
+        <script src="js/bootstrap.min.js"></script>
     </body>
 </html>

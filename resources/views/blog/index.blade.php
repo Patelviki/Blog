@@ -6,7 +6,7 @@
         <div class="col-md-8">
             <article class="post-item">
                 <div class="post-item-image">
-                    <a href="post.html">
+                    <a href="index.blade.php">
                         <img src="img/Post_Image_1.jpg" alt="">
                     </a>
                 </div>

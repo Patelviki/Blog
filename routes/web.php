@@ -16,5 +16,5 @@ Route::get('/', function () {
 });
 
 Route::get('/show', function () {
-    return view('blog.show');
+    return view('blog.showblog');
 });
